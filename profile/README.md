@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![GuaranTEK Banner](/images/avatar.jpg)
-We are GuaranTEK, **a young startup with amazing **.
+
+We are GuaranTEK, **a young startup with amazing**.
 
 ### Mission
 Now a day, Technologies as an essential things to help everyone moving forward not only for work, but also for daily life. GuaranTEK's mission to contribute to build a better life by application tools, digitize everything. Let's GuaranTEK's application become a right hand for each of us.
